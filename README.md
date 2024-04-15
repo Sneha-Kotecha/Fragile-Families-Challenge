@@ -20,25 +20,8 @@ The main objectives of this project are:
 
 4. **Model Interpretation**: Interpret and explain the trained models using techniques like LIME (Local Interpretable Model-agnostic Explanations) and SHAP (SHapley Additive exPlanations) to understand the impact of different features on the predicted GPA.
 
-## Requirements
-
-To run the code in this repository, you'll need to have the following libraries installed:
-
-- pandas
-- numpy
-- scikit-learn
-- lime
-- shap
-
-You can install the required libraries using pip:
-
-```
-pip install pandas numpy scikit-learn lime shap
-```
 
 ## Contents
 
 - `AML-Code-Final.ipynb`: A Jupyter Notebook containing the code for data preprocessing, model training, evaluation, interpretation, and text length analysis.
-- `data/`: Directory where the FFCWS dataset should be placed.
-- `utils.py`: Utility functions for data loading, visualization, and model interpretation.
 - `requirements.txt`: List of required Python libraries and dependencies.
