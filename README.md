@@ -36,13 +36,6 @@ You can install the required libraries using pip:
 pip install pandas numpy scikit-learn lime shap
 ```
 
-## Usage
-
-1. Clone this repository to your local machine.
-2. Download the FFCWS dataset from the Princeton University Fragile Families Study website (https://fragilefamilies.princeton.edu/) and place it in the `data/` directory.
-3. Open the `analysis.ipynb` notebook in your preferred Jupyter environment.
-4. Execute the cells in the notebook to preprocess the data, train and evaluate machine learning models, perform hyperparameter tuning, interpret the models, and analyze the effect of text length on classification performance.
-
 ## Contents
 
 - `AML-Code-Final.ipynb`: A Jupyter Notebook containing the code for data preprocessing, model training, evaluation, interpretation, and text length analysis.
