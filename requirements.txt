@@ -1,0 +1,12 @@
+numpy
+pandas
+statsmodels
+scipy
+scikit-learn
+xgboost
+shap
+nltk
+matplotlib
+seaborn
+tqdm
+pathlib
