@@ -45,7 +45,7 @@ pip install pandas numpy scikit-learn lime shap
 
 ## Contents
 
-- `analysis.ipynb`: A Jupyter Notebook containing the code for data preprocessing, model training, evaluation, interpretation, and text length analysis.
+- `AML-Code-Final.ipynb`: A Jupyter Notebook containing the code for data preprocessing, model training, evaluation, interpretation, and text length analysis.
 - `data/`: Directory where the FFCWS dataset should be placed.
 - `utils.py`: Utility functions for data loading, visualization, and model interpretation.
 - `requirements.txt`: List of required Python libraries and dependencies.
